@@ -1,5 +1,5 @@
 SentimentIQ
-CS 311 - Programming Languages | Jaskirat Mann
+C311 Programming Languages | Jaskirat Mann
 
 DESCRIPTION
 SentimentIQ analyzes user-entered text and classifies it as Positive, Negative, or Neutral using the VADER sentiment analyzer from Python's NLTK library. The web interface is built with Streamlit.
